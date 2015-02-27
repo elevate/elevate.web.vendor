@@ -8,7 +8,9 @@
     "matchMedia": "latest",
     "elasticsearch": "latest",
     "elastic.js": "latest",    
-
+	
+	"jasmine-core": "latest",
+	
     "bootstrap": "latest",
 
     "angular": "#1.3.0",
