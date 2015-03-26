@@ -26,5 +26,6 @@
     "commit": "7cee878bf9cd234a6df4ad00dd4db0b7e366131b"
   },
   "_source": "git://github.com/urish/angular-moment.git",
-  "_target": "*"
+  "_target": "*",
+  "_originalSource": "angular-moment"
 }

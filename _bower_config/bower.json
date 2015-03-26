@@ -4,6 +4,7 @@
   "dependencies": {
     "jquery": "latest",
     "moment": "latest",
+    "moment-range": "latest",    
     "lodash": "latest",
     "matchMedia": "latest",
     "elasticsearch": "latest",
